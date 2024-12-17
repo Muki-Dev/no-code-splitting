@@ -2,8 +2,10 @@
 
 To run Project:
 
-1- cd no-code-splitting
+1- clone project:(no-code-splitting)
 
-2- npm install
+2-cd no-code-splitting
 
-3- npm start
+3- npm install
+
+4- npm start
